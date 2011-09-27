@@ -217,6 +217,32 @@ leftgutter
 .tasknav ul ul a {padding: 2px 2px 2px 25px;}
 
 /* -----------------------------------
+leftgutter attmanage
+----------------------------------- */
+
+.profilepic {
+	margin: 10px 0 0 0;
+}
+.areasfollow {
+	margin: 50px 0 0 0;
+}
+.areasfollow a {
+	display: block;
+	margin: 1px 0 0 2px;
+	color:#66CCFF;
+	text-decoration: none;
+	padding: 5px 0 5px 0;
+}
+.areasfollow a:hover { color: #000; }
+.areasfollow a:focus { outline: #eee thin dotted; }
+.areasfollow ul ul a {padding: 2px 2px 2px 25px;}
+
+.areasfollow h4 {
+	margin: 5px 0 5px 0;
+	color:#000;
+}
+
+/* -----------------------------------
 centergutter
 ----------------------------------- */
 .doctitle {
@@ -294,6 +320,45 @@ textarea {
 	padding: 5px;
 	background: #D8D8D8;
 }
+/* -----------------------------------
+centergutter attmanage
+----------------------------------- */
+
+.profilebio h2 {
+	margin: 10px 0 20px 0;
+	color:#000;
+}
+
+.doctable3 {
+	margin: 40px 0 0 0;
+}
+
+.doctable3 td {
+	width: 110px;
+	text-align: center;
+}
+
+.doctable3 h4 {
+	color:#000;
+	background: #eee;
+	padding: 2px;
+	margin: 0 0 0 2px;
+}
+
+.doctable3 h3 {
+	color:#000;
+}
+
+.doctable3 li {
+	margin: 20px 0 20px 20px;
+}
+
+.doctable3 ul ul li {
+	margin: 10px 0 10px 60px;
+}
+
+
+
 
 /* -----------------------------------
 rightgutter
@@ -352,6 +417,23 @@ rightgutter
 .blogs td{
 	padding: 0 0 10px 0;
 }
+
+/* -----------------------------------
+rightgutter
+----------------------------------- */
+
+.referal {
+	margin:20px 0 0 0;
+}
+.referal h5 {
+	font-size: 100%;
+	color:#000;
+}
+
+.attads h6 {
+	color:#000;
+}
+
 
 /* -----------------------------------
 footer
