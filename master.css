@@ -1,8 +1,8 @@
 /* -----------------------------------
-Site:       The Balloon Shop
-CSS author: Russ Weakley
-Updated:	Date here
-Updated by: Date here
+Site:       UpCounsel
+CSS author: Matt Faustman
+Updated:	September 27, 2011
+Updated by: MDF
 ----------------------------------- */
 
 /* -----------------------------------
@@ -357,8 +357,25 @@ centergutter attmanage
 	margin: 10px 0 10px 60px;
 }
 
+/* -----------------------------------
+centergutter busmanage
+----------------------------------- */
 
+.companyname h1 {
+	margin: 20px 0 0 0px;
+}
 
+.column1 li {
+	margin: 5px 0 5px 20px;
+}
+
+.busdoctable td {
+	width: 170px;
+}
+
+.busdoctable img {
+	margin: 3px 0 0 25px;
+}
 
 /* -----------------------------------
 rightgutter
